@@ -372,7 +372,41 @@ A comprehensive, stack‑agnostic Computer Science + Software Engineering fundam
 - Refactoring strategies
 - Technical debt management
 
-## Exercises
+# DOMAIN 12 — Compliance, Standards & Governance (Week 22)
+## Week 22 — Compliance & Standards for Software Engineering
+### Global Standards
+- OWASP Top 10
+- ISO 27001 principles
+- ISO 27017 (cloud security)
+- ISO 27018 (PII protection)
+- RFC standards (HTTP, TLS, DNS)
+- PCI DSS (if handling payments)
+
+### South African Regulations
+- POPIA (data protection)
+- ECTA (electronic transactions)
+- Cybercrimes Act
+- CPA (consumer protection)
+- PAIA (access to information)
+
+### Cloud & Architecture Standards
+- AWS Well-Architected Framework
+- IAM least privilege
+- Encryption at rest & in transit
+- Logging & monitoring requirements
+
+### Engineering Standards
+- Secure coding standards (OWASP ASVS, NIST)
+- API design standards (OpenAPI, OAuth2/OIDC)
+- Data minimization
+- Retention & deletion policies
+
+### Exercises
+- Perform a compliance audit on Dev Frog Blog
+- Map all personal data flows
+- Identify POPIA risks
+- Validate logging & monitoring practices
+- Document compliance gaps and remediation plan
 - Maintainability audit of Dev Frog Blog
 - Identify bottlenecks in JoSe
 - Write a scalability plan for your ML microservice
