@@ -103,13 +103,15 @@ A comprehensive, stack‑agnostic Computer Science + Software Engineering fundam
 - Queues
 - Hash maps
 - Trees
-- Graphs
+- Graphs and graph theory
+- Sets and set theory
 
 ## Exercises
 - Implement each DS
 - Solve 10–15 DS problems
 
 ## Week 7 — Algorithms
+- Time complexity (big O, big Theta, big Omega)
 - Sorting
 - Searching
 - Recursion
