@@ -299,6 +299,8 @@ A comprehensive, stack‑agnostic Computer Science + Software Engineering fundam
 - Declarative
 - Imperative
 - Event-driven
+- Concurrency and parrallelism
+- Asyncronous programming
 - Reactive
 - Actor model
 - Immutability
